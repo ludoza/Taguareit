@@ -1,0 +1,7 @@
+{
+"env" : {
+    "default" : {
+      "db" : "http://user:pass@localhost:5984/taguareit"
+    }
+}
+}
